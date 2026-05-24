@@ -108,3 +108,6 @@ This is a community project! See [CONTRIBUTING.md](CONTRIBUTING.md) to add a cha
 ## 📄 License
 
 MIT License — free to use, modify, and share.
+
+## Acknowledgements
+Thanks to all contributors and the open source community for making this guide possible.
